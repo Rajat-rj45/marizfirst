@@ -71,3 +71,18 @@ Temporary UI direction:
 Design 1 - Clean & Modern Healthcare UI.
 
 Final visual UI will be refined during the planned design system and UI phase.
+
+## Day 7 Profile Wireframes
+
+Day 7 completed low-fidelity wireframe planning for:
+
+- Doctor profile page
+- Hospital profile page
+- Clinic profile page
+- Mobile profile layouts
+- Fee and discount display rules
+- Slot placement rules
+- Profile CTA rules
+- Medical disclaimer placement
+
+Profile pages are treated as primary conversion pages for appointment requests.
