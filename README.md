@@ -39,3 +39,21 @@ Day 1: Project foundation and documentation started
 Day 2: Next.js setup completed  
 Day 3: Public layout foundation completed  
 Day 4: User flows and appointment logic documented
+
+## MVP Priority System
+
+MarizFirst uses a P0/P1/P2 priority system.
+
+### P0
+Required for MVP launch.
+
+### P1
+Useful post-MVP improvements.
+
+### P2
+Later growth features.
+
+Current Day 5 output:
+- MVP backlog finalized
+- Acceptance criteria documented
+- Priority matrix created
