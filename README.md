@@ -86,3 +86,17 @@ Day 7 completed low-fidelity wireframe planning for:
 - Medical disclaimer placement
 
 Profile pages are treated as primary conversion pages for appointment requests.
+
+## Day 8 Booking Flow Wireframes
+
+Day 8 completed low-fidelity planning for:
+
+- Slot selection flow
+- Appointment request form
+- Booking validation states
+- Success and error states
+- Mobile booking UX
+- Consent rules
+- Pending Confirmation messaging
+
+The booking flow uses appointment request language instead of instant confirmation language.
