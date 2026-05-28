@@ -57,3 +57,17 @@ Current Day 5 output:
 - MVP backlog finalized
 - Acceptance criteria documented
 - Priority matrix created
+
+## Day 6 Wireframe Direction
+
+Day 6 completed low-fidelity wireframe planning for:
+
+- Homepage
+- Doctors/search listing page
+- Mobile homepage
+- Mobile listing/filter behavior
+
+Temporary UI direction:
+Design 1 - Clean & Modern Healthcare UI.
+
+Final visual UI will be refined during the planned design system and UI phase.
