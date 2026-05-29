@@ -181,3 +181,20 @@ Day 13 completed UI planning for:
 - Listing SEO content placement
 
 Listing pages are designed as high-intent discovery and comparison pages with visible appointment CTAs.
+
+## Day 14 Profile Pages and Booking Components UI
+
+Day 14 completed UI planning for:
+
+- Doctor profile page
+- Hospital profile page
+- Clinic profile page
+- Sticky booking card
+- Slot picker component
+- Appointment request form
+- Success and error states
+- Mobile profile booking behavior
+- Profile SEO rules
+- Profile UI rules
+
+Profile pages are treated as primary conversion pages with clear appointment request language and Pending Confirmation messaging.
