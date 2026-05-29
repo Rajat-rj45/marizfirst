@@ -165,3 +165,19 @@ Day 12 completed homepage UI design planning for:
 - Responsive rules
 
 The homepage will follow a clean, modern healthcare-first design direction with search above the fold and honest appointment request language.
+
+## Day 13 Listing Pages UI
+
+Day 13 completed UI planning for:
+
+- Doctors listing page
+- Hospitals listing page
+- Clinics listing page
+- Filter sidebar
+- Mobile filter drawer
+- Listing card rules
+- Sorting rules
+- Empty state behavior
+- Listing SEO content placement
+
+Listing pages are designed as high-intent discovery and comparison pages with visible appointment CTAs.
