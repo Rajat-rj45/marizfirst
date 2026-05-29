@@ -115,3 +115,19 @@ Day 9 completed low-fidelity planning for:
 - Admin security rules
 
 The admin dashboard is treated as the operational control center of MarizFirst.
+
+## Day 10 Partner Dashboard Wireframes
+
+Day 10 completed low-fidelity planning for:
+
+- Partner dashboard overview
+- Doctor partner access model
+- Hospital partner access model
+- Clinic partner access model
+- Partner appointment request flow
+- Partner slot management
+- Partner profile management
+- Partner mobile UX rules
+- Partner ownership and security rules
+
+The partner dashboard is scoped to each partner's own data and does not behave like a full admin panel.
