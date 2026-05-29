@@ -100,3 +100,18 @@ Day 8 completed low-fidelity planning for:
 - Pending Confirmation messaging
 
 The booking flow uses appointment request language instead of instant confirmation language.
+
+## Day 9 Admin Operations Wireframes
+
+Day 9 completed low-fidelity planning for:
+
+- Admin dashboard control room
+- Appointment inbox and detail flow
+- Appointment status actions
+- Listing management structure
+- Lead management structure
+- Admin notes
+- Audit log requirements
+- Security and data visibility rules
+
+The admin dashboard is treated as the operational control system for appointment confirmation, rescheduling, cancellation, lead handling, listing management, and audit visibility.
