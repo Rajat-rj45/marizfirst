@@ -101,17 +101,17 @@ Day 8 completed low-fidelity planning for:
 
 The booking flow uses appointment request language instead of instant confirmation language.
 
-## Day 9 Admin Operations Wireframes
+## Day 9 Admin Dashboard Wireframes
 
 Day 9 completed low-fidelity planning for:
 
-- Admin dashboard control room
-- Appointment inbox and detail flow
-- Appointment status actions
-- Listing management structure
-- Lead management structure
-- Admin notes
+- Admin dashboard overview
+- Appointment inbox
+- Appointment detail actions
+- Listing management
+- Lead management
+- Admin data visibility rules
 - Audit log requirements
-- Security and data visibility rules
+- Admin security rules
 
-The admin dashboard is treated as the operational control system for appointment confirmation, rescheduling, cancellation, lead handling, listing management, and audit visibility.
+The admin dashboard is treated as the operational control center of MarizFirst.
