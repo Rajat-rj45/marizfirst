@@ -146,3 +146,17 @@ Day 11 completed design system planning for:
 - Accessibility rules
 
 MarizFirst will use a clean, modern, healthcare-first design system focused on trust, clarity, conversion, and accessibility.
+
+## Day 12 Homepage UI Direction
+
+Day 12 completed homepage planning for:
+
+- Desktop homepage layout
+- Mobile homepage layout
+- Section-by-section homepage specification
+- Homepage copy direction
+- Homepage image direction
+- Responsive homepage rules
+- Homepage conversion rules
+
+The homepage will use a clean, modern, healthcare-first design focused on search, trust, appointment requests, and mobile-first conversion.
