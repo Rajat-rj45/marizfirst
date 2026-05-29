@@ -147,16 +147,21 @@ Day 11 completed design system planning for:
 
 MarizFirst will use a clean, modern, healthcare-first design system focused on trust, clarity, conversion, and accessibility.
 
-## Day 12 Homepage UI Direction
+## Day 12 Homepage UI Design
 
-Day 12 completed homepage planning for:
+Day 12 completed homepage UI design planning for:
 
 - Desktop homepage layout
 - Mobile homepage layout
-- Section-by-section homepage specification
+- Hero/search module
+- Trust strip
+- Popular specialities
+- Featured doctors
+- Hospitals and clinics sections
+- How MarizFirst works
+- Final CTA
 - Homepage copy direction
 - Homepage image direction
-- Responsive homepage rules
-- Homepage conversion rules
+- Responsive rules
 
-The homepage will use a clean, modern, healthcare-first design focused on search, trust, appointment requests, and mobile-first conversion.
+The homepage will follow a clean, modern healthcare-first design direction with search above the fold and honest appointment request language.
